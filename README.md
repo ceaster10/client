@@ -21,6 +21,7 @@ There are a few basic examples that are ready for you to run. You can find them 
 If you are already familiar with the GitHub Models service, you can start by running our Cookbook examples. You can find them in the [cookbooks directory](cookbooks/README.md). Here are the direct links to the available languages (at this point only Python):
 
 - [Python](cookbooks/python/README.md)
+- [CRM Example](crm/README.md)
 
 ## Disclosures
 
